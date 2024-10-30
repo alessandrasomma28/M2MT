@@ -1,2 +1,2 @@
-# M2MTT
-Model-To-Model Transformation Tool.
+# M2MT
+Model-To-Model Transformation tool.
