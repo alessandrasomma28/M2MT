@@ -1,7 +1,7 @@
 
 # Model-To-Model Transformation Tool
 
+<img alt="Model-To-Model Transformation Process" height="253" src="./images/m2mtrasformation.png" width="600"/>
 
-<img src="./images/m2mtransformation.png" alt="Model-to-Model Transformation Process" width="200" height="100">
 
 
